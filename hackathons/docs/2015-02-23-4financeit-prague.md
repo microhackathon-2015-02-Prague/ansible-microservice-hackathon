@@ -7,7 +7,7 @@ Here you find all information required for you to work during the Hackathon.
 
 # Link to the presentation
 
-[Presentation about microservices](https://docs.google.com/presentation/d/1alWCqeNK2KT-bjidlGZ_tvoN5hYQT0VBhbMcrOzkGyU/edit?usp=sharing)
+[Presentation about microservices](https://docs.google.com/presentation/d/1jwgrLaHw3B9nXyVEW0QxFtyTZy2FHjotooqWtXwaI5k/)
 
 # Ok what should I do now? 
 
