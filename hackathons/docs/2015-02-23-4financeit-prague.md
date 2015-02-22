@@ -44,7 +44,7 @@ We give you Spring profiles! Just add a system property:
 
 ## Architecture draft
 
-[Click to see the draft](https://docs.google.com/document/d/1yRV5DNJAhBH73bJo-s5L8wwoeJG4Ke6H45dg8_rRT84/edit?usp=sharing)
+[Click to see the draft](https://docs.google.com/document/d/1dXub2V0U5cNk9-lLUgfeRRQ5yzGMJ8TQpS8iRRWWy5A/)
 
 ## Architecture plan
 
