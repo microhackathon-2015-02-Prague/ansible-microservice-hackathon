@@ -41,3 +41,7 @@ projects:
     template: https://github.com/4finance/boot-microservice.git
     template_version: boot-microservice-gui
 
+  - name: ui
+    port: 8060
+    template: https://github.com/4finance/boot-microservice.git
+    template_version: boot-microservice-gui
